@@ -135,6 +135,8 @@
       <key code="82" output="0" />
       <key code="65" action="." />
       <key code="81" action="=" />
+      <key code="189" output="`" />
+      <key code="192" output="`" />
     </keyMap>
     <keyMap index="1">
       <key code="10" output="`" />
@@ -234,9 +236,11 @@
       <key code="82" output="0" />
       <key code="65" action="." />
       <key code="81" action="=" />
+      <key code="189" output="`" />
+      <key code="192" output="`" />
     </keyMap>
     <keyMap index="2">
-      <key code="10" action="~" />
+      <key code="10" output="~" />
       <key code="18" output="!" />
       <key code="19" output="@" />
       <key code="20" output="#" />
@@ -333,6 +337,8 @@
       <key code="82" output="0" />
       <key code="65" action="." />
       <key code="81" action="=" />
+      <key code="189" output="~" />
+      <key code="192" output="~" />
     </keyMap>
     <keyMap index="3">
       <key code="10" action="dead:tilde" />
@@ -431,6 +437,8 @@
       <key code="82" output="0" />
       <key code="65" action="." />
       <key code="81" action="=" />
+      <key code="189" output="`" />
+      <key code="192" output="`" />
     </keyMap>
     <keyMap index="4">
       <key code="18" output="¹" />
@@ -515,6 +523,8 @@
       <key code="82" output="0" />
       <key code="65" action="." />
       <key code="81" action="=" />
+      <key code="189" output="~" />
+      <key code="192" output="~" />
     </keyMap>
     <keyMap index="5">
       <key code="10" output="`" />
@@ -614,6 +624,8 @@
       <key code="82" output="0" />
       <key code="65" action="." />
       <key code="81" action="=" />
+      <key code="189" output="`" />
+      <key code="192" output="`" />
     </keyMap>
     <keyMap index="6">
       <key code="10" output="`" />
@@ -713,9 +725,11 @@
       <key code="82" output="0" />
       <key code="65" action="." />
       <key code="81" action="=" />
+      <key code="189" output="~" />
+      <key code="192" output="~" />
     </keyMap>
     <keyMap index="7">
-      <key code="10" action="~" />
+      <key code="10" output="~" />
       <key code="18" output="!" />
       <key code="19" output="@" />
       <key code="20" output="#" />
@@ -812,6 +826,8 @@
       <key code="82" output="0" />
       <key code="65" action="." />
       <key code="81" action="=" />
+      <key code="189" output="`" />
+      <key code="192" output="`" />
     </keyMap>
     <keyMap index="8">
       <key code="10" action="dead:tilde" />
@@ -901,6 +917,8 @@
       <key code="82" output="0" />
       <key code="65" action="." />
       <key code="81" action="=" />
+      <key code="189" output="~" />
+      <key code="192" output="~" />
     </keyMap>
     <keyMap index="9">
       <key code="18" output="¹" />
@@ -994,6 +1012,8 @@
       <key code="82" output="0" />
       <key code="65" action="." />
       <key code="81" action="=" />
+      <key code="189" output="`" />
+      <key code="192" output="`" />
     </keyMap>
   </keyMapSet>
   <actions>
